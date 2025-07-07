@@ -30,7 +30,7 @@ Upon completion of this module, students should be able to:
 
 ## Proposed Weekly Lecture & Tutorial Schedule
 | Week | Description                         | Tutorial                                      | Assessment        |
-| : | :- | :-- | : |
+| :---: | :---: | :---: | :---: |
 | 1    | Introduction to computer components | Windows and Windows Commands                  |                     |
 | 2    | Operating System Structures         | File Structure: NTFS, Windows Process and Network management |                     |
 | 3    | Processes                           | Ubuntu OS Implementation, File & Directory Management in Linux, Linux File System |                     |
